@@ -7,8 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Sound Pack Library ---
     const soundPacks = {
-        mechanical: new Audio('mechanical.mp3'),
-        bubble: new Audio('bubblepop.mp3') 
+        mechanical: new Audio('sounds/mechanical.mp3'),
+        bubble: new Audio('sounds/bubblepop.mp3') 
     };
 
     // Variable to hold the current sound theme.
@@ -104,4 +104,5 @@ document.addEventListener('DOMContentLoaded', () => {
         document.body.classList.toggle('dark-mode');
     });
 });
+
 
