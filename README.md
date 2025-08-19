@@ -8,6 +8,8 @@ Each project is simple, beginner-friendly, and focuses on building core frontend
 ## 🚀 Projects Included
 
 ### 1. Calculator App
+click link to view : https://rahulranjan2203.github.io/web_dev-learning_projects-/
+
 - A basic calculator built using HTML, CSS, and JavaScript.
 - Supports addition, subtraction, multiplication, and division.
 - Responsive design with clean UI.
